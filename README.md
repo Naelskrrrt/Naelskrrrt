@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm LALASON Annael Horthannice</h1>
-<h3 align="center">A passionate junior developer from Madagascar</h3>
+<h3 align="center">A passionate designer && developer from Madagascar</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Java Spring Boot, React, NestJS**
+- 🌱 I’m currently learning **Next.js, React, React Native, Hono, Bun and Vanilla.js**
 
-- 💬 Ask me about **React, Java**
+- 💬 Ask me about **JavaScript And TypeScript**
 
 - 📫 How to reach me **ralalanael@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xSWcHyQ9STQfcMb9jxJ1RLdFsI8B_zWV/view?usp=sharing](https://drive.google.com/file/d/1xSWcHyQ9STQfcMb9jxJ1RLdFsI8B_zWV/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1xSWcHyQ9STQfcMb9jxJ1RLdFsI8B_zWV/view?usp=sharing)
 
 - ⚡ Fun fact **I'm so attractive and Funny 😉😂**
 
