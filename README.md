@@ -11,7 +11,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/lalason.pro-0a0a0a?style=for-the-badge&logo=vercel&logoColor=fafafa)](https://www.lalason.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://linkedin.com/in/nael-lalason)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=fafafa)](https://linkedin.com/in/lalasonnael)
 [![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=fafafa)](https://x.com/lalasonnael29)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:contact@lalason.pro)
 
