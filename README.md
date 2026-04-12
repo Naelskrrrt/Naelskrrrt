@@ -1,7 +1,6 @@
-<div align="left">
 
+# Naelskrrrt
 
-<br/>
 <samp>AI Systems Architect</samp>
 
 <br/>
@@ -20,7 +19,7 @@
 
 <br/>
 
-<div align="right">
+<div align="left">
 
 ```
 Before automating, I understand. Before building, I structure.
@@ -30,7 +29,7 @@ Before automating, I understand. Before building, I structure.
 
 <br/>
 
-<div align="right">
+<div align="left">
 
 **Langages**
 
@@ -74,6 +73,6 @@ Before automating, I understand. Before building, I structure.
 
 <br/>
 
-<div align="right">
+<div align="left">
 <sub><i>Where others see tasks, I see processes to rethink.</i></sub>
 </div>
